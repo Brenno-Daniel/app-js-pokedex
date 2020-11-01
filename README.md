@@ -8,7 +8,7 @@ Projeto consiste em desenvolver uma aplicação em JS puro sem usar frameworks o
 A aplicação é uma pokedex utilizando a PokéAPI (https://pokeapi.co/), conceitos e práticas de código assíncrono, promises, map, reduce e refatoração de código.
 
 
-Projeto desenvolvido seguindo uma das vídeo aulas do Roger Melo sobre desenvolvimento de apliceções com JS puro.
+Projeto desenvolvido seguindo uma das vídeo aulas do Roger Melo sobre desenvolvimento de aplicações com JS puro.
 
 
 Link para a vídeo aula:
